@@ -1,2 +1,2 @@
-# jibri_rename_script
+# About jibri
 For record and practice.
