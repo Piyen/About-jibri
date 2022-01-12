@@ -1,0 +1,8 @@
+version: '2'
+services:
+  selenium:
+    image: 'selenium/standalone-chrome'
+    restart: unless-stopped
+    ports:
+            - '4444:4444'
+            - '5900:5900'
